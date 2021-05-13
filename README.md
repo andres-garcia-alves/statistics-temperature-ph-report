@@ -1,6 +1,6 @@
 # Temperatura & pH
 
-A statistical analysis on the correlation between temperature and pH, using R language.
+A statistical analysis on the correlation between Temperature and pH measurements, using R language.
 
 &nbsp;
 
