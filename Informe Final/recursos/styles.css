@@ -1,0 +1,5 @@
+.seccion {
+  display: inline-block;
+  vertical-align: top;
+  background-color: red;
+}
